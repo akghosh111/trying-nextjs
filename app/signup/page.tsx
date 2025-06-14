@@ -1,6 +1,6 @@
 export default function Signup() {
   return (
-    <div>
+    <div className="bg-red-100 p-4">
       Sign up
     </div>
   );
